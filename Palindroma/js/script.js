@@ -33,9 +33,7 @@
         if( checkWord == backWord) {   
             word = true;
         }
-
         console.log(backWord)
-
         return(word)
     }
 
